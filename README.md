@@ -22,4 +22,4 @@
   
 　　TabNet网络由多个step的子模块构成，每个step关注不同层面的特征。每个step由Attentive transformer和Feature transformer两大block及一些辅助的运算构成。Attentive transformer作用是输出特征的mask,用于学习每个特征的重要程度，Feature transformer作用是特征的提取，生成对样本属性更有效的表征。　　　　
   
- > [TabNet讲解]:　https://zhuanlan.zhihu.com/p/126755362
+ [TabNet讲解]:　https://zhuanlan.zhihu.com/p/126755362
